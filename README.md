@@ -171,6 +171,7 @@ The community maintained data sources that the rest of the ecosystem depends on.
 - [model_prices_and_context_window.json](https://github.com/BerriAI/litellm/blob/main/model_prices_and_context_window.json) - The canonical community maintained pricing JSON, lives in LiteLLM. 100+ providers. Vendor or fetch from this if you're building anything cost aware.
 - [OpenRouter Models API](https://openrouter.ai/api/v1/models) - JSON API with current pricing for 300+ models, cached at the edge.
 - [llm-info](https://www.npmjs.com/package/llm-info) - Community maintained model and pricing metadata for the JS ecosystem.
+- [Token Barometer calculator](https://tokenbarometer.com/calc) - Cloud API vs local GPU with amortisation, electricity and idle time charged to local; breakeven tokens and utilisation.
 
 ## Calculators and Estimators
 
@@ -193,6 +194,7 @@ The community maintained data sources that the rest of the ecosystem depends on.
 - [PricePerToken](https://pricepertoken.com) - Comparison and leaderboards across 300+ models.
 - [TokenCost App](https://tokencost.app) - Leaderboard with quality versus cost scoring.
 - [CostGoat](https://costgoat.com) - Closed source. Desktop app for tracking OpenRouter and multi provider spend in real time.
+- [Token Barometer calculator](https://tokenbarometer.com/calc) - Cloud API vs local GPU with amortisation, electricity and idle time charged to local; breakeven tokens and utilisation.
 
 ## Cost Aware Serving Research
 
